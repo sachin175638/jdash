@@ -132,7 +132,7 @@ while True:
 		print '\t Name   : Sachin'
 		print '\t Country: India'
 		print '\t Channel: BBSAD'
-		print '\t Link   :https://youtu.be/87GMKQq_nTs'
+		print '\t Link   : https://youtu.be/87GMKQq_nTs'
 		print '\t'
 
 	 elif coder[0] == "-h":
