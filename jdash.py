@@ -3,7 +3,7 @@
 # created on date 27/10/2018
 # whats app number 8105190452 
 # if u get any bugs send to this number
-# i student 4th year civil
+# i am studying 4th year civil
 #
 
 import os
