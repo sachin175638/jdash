@@ -1,7 +1,8 @@
 #!/bin/env python2
-# script owner="sachin"
-# created on date 27/10/2018
-# whats app number 8105190452 
+# Script owner="sachin"
+# Created on date 27/10/2018
+# Modified on date 1/11/2018
+# Whats app number 8105190452 
 # if u get any bugs send to this number
 # i am studying 4th year civil
 #
